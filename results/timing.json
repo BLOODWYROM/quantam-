@@ -1,0 +1,7 @@
+{
+  "pca_fit_s": 0.00024020915000164678,
+  "pca_infer_per_sample_s": 6.237383335398287e-08,
+  "qae_numpy_infer_per_sample_s": 4.832004999949883e-07,
+  "qae_aer_infer_per_sample_s": 0.0017414412199968864,
+  "qae_train_s_(8 restarts)": 0.5366140900000573
+}

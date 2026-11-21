@@ -1,0 +1,7 @@
+layers,encoder_cx,encoder_depth,stateprep_cx,stateprep_depth,n_parameters
+1,3,5,11,39,8
+2,6,9,11,39,12
+3,9,13,11,39,16
+4,12,17,11,39,20
+6,18,25,11,39,28
+8,24,33,11,39,36
